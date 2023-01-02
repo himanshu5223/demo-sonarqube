@@ -41,10 +41,6 @@
         <system-lambda.version>1.0.0</system-lambda.version>
         <system-stubs.version>1.1.0</system-stubs.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.projectKey>demo</sonar.projectKey>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin@#$</sonar.password>
 	</properties>
 
 	<dependencies>
